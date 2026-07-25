@@ -115,13 +115,13 @@ This project answers several real-world business questions, including:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/thrinaysayani/walmart_sales_analysis.git
 ```
 
 Navigate into the project folder:
 
 ```bash
-cd your-repository-name
+cd walmart_sales_analysis
 ```
 
 Install dependencies:
