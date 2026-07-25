@@ -90,7 +90,6 @@ Basic SQL exploration includes:
 * View all records
 * Count total transactions
 * Count distinct branches
-* Analyze payment methods
 * Find minimum and maximum quantities sold
 
 ---
