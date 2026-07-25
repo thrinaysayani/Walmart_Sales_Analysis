@@ -4,7 +4,6 @@
 
 This project is an end-to-end **Data Analysis** solution built on Walmart sales data to uncover meaningful business insights. The project demonstrates the complete analytics workflow—from data cleaning and preprocessing in **Python** to data storage in **MySQL** and advanced business analysis using **SQL**.
 
-It is an excellent project for aspiring **Data Analysts** to showcase skills in data cleaning, exploratory data analysis (EDA), SQL querying, and business problem-solving.
 
 ---
 
