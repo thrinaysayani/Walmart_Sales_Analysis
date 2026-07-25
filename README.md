@@ -199,5 +199,4 @@ Through this project, I gained hands-on experience in:
 
 **Sayani Thrinay**
 
-If you found this project helpful, consider giving it a ⭐ on GitHub!
-****
+
